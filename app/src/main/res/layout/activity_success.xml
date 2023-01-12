@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue_hotel"
+    tools:context=".SuccessActivity">
+
+    <RelativeLayout
+        android:background="@color/white"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" >
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TRANSAKSI SUKSES"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textColor="@color/blue_hotel"
+            android:textAlignment="center"
+            android:shadowColor="@color/gray"
+            android:shadowDy="10"
+            android:shadowRadius="2"/>
+
+        <TextView
+            android:id="@+id/text2"
+            android:textColor="@color/dark_gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text1"
+            android:layout_marginTop="24dp"
+            android:text="Nama"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/text3"
+            android:textColor="@color/dark_gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="HP"
+            android:layout_below="@id/text2"
+            android:layout_marginTop="16dp"
+            android:textStyle="bold"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/text4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text3"
+            android:layout_marginTop="16dp"
+            android:text="Waktu CheckIn"
+            android:textColor="@color/dark_gray"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/text5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text4"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/dark_gray"
+            android:text="Waktu CheckOut"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/text6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text5"
+            android:layout_marginTop="16dp"
+            android:text="Biaya Kamar"
+            android:textColor="@color/dark_gray"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:visibility="gone"
+            android:id="@+id/barcode"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_below="@+id/text6"
+            android:scaleType="centerCrop"
+            android:src="@drawable/barcode" />
+
+        <TextView
+            android:id="@+id/text7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/barcode"
+            android:text="Tunjukan Barcode Berikut ketika Melakukan CheckIn Kamar Hotel"
+            android:textAlignment="center"
+            android:textColor="@color/dark_gray"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnback"
+            android:textColor="@color/white"
+            android:text="Kembali Ke Halaman Utama"
+            android:layout_below="@+id/text7"/>
+
+        <TextView
+            android:id="@+id/inputNama"
+            android:layout_width="wrap_content"
+            android:textColor="@color/dark_gray"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text1"
+            android:layout_marginStart="16sp"
+            android:layout_marginTop="24dp"
+            android:layout_toEndOf="@id/text5"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/inputHp"
+            android:textColor="@color/dark_gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:layout_toEndOf="@id/text5"
+            android:layout_marginStart="16sp"
+            android:layout_marginTop="16dp"
+            android:layout_below="@id/text2"/>
+
+        <TextView
+            android:id="@+id/inputCheckIn"
+            android:textColor="@color/dark_gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:layout_toEndOf="@id/text5"
+            android:layout_marginStart="16sp"
+            android:layout_marginTop="16dp"
+            android:layout_below="@id/text3"/>
+
+        <TextView
+            android:id="@+id/inputCheckOut"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@color/dark_gray"
+            android:layout_toEndOf="@id/text5"
+            android:layout_marginStart="16sp"
+            android:layout_marginTop="16dp"
+            android:layout_below="@id/text4"/>
+
+        <TextView
+            android:id="@+id/inputBiaya"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:layout_toEndOf="@id/text5"
+            android:textColor="@color/dark_gray"
+            android:layout_marginStart="16sp"
+            android:layout_marginTop="16dp"
+            android:layout_below="@id/text5"/>
+    </RelativeLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

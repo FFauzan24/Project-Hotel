@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable-v24_image1.jpg.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable-v24/image1.jpg"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/layout_list_item_hotel.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/layout/list_item_hotel.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable-v24_img2.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable-v24/img2.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable_ic_baseline_star_half_24.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable/ic_baseline_star_half_24.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/layout_activity_register.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/layout_activity_list_hotel.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/layout/activity_list_hotel.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable-v24_img10.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable-v24/img10.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable_roundedcard.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable/roundedcard.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/layout_activity_home.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable-v24_img8.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable-v24/img8.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable-v24_img5.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable-v24/img5.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable/ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "com.acenkzproject.myhotel.app-merged_res-35:/layout_activity_login.xml.flat",
+        "source": "com.acenkzproject.myhotel.app-main-37:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/layout_activity_booking.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/layout/activity_booking.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable-v24_img4.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable-v24/img4.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable_ic_baseline_star_24.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable/ic_baseline_star_24.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/font_inter.otf.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/font/inter.otf"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable-v24_img3.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable-v24/img3.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable-v24_logo.png.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable-v24/logo.png"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable_ic_round_account_circle_24.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable/ic_round_account_circle_24.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/layout_activity_login.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable_ic_baseline_star_outline_24.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable/ic_baseline_star_outline_24.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/menu_option_menu.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/menu/option_menu.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-pngs-30:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/font_interblack.otf.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/font/interblack.otf"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable-v24_img9.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable-v24/img9.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable-v24_img6.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable-v24/img6.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/layout_activity_detail_hotel.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/layout/activity_detail_hotel.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable-v24_img1.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable-v24/img1.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable_whiterounded.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable/whiterounded.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable-v24_img7.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable-v24/img7.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/layout_activity_success.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/layout/activity_success.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/drawable-v24_barcode.png.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/drawable-v24/barcode.png"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/layout_activity_profile.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-merged_res-35:/layout_activity_about.xml.flat",
+        "source": "/home/acenkz/.gradle/daemon/7.3.3/com.acenkzproject.myhotel.app-main-37:/layout/activity_about.xml"
+    }
+]

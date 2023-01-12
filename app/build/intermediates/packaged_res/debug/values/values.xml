@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="detail">
+        <item>Hotel dengan lokasi yang strategis yang nyaman untuk liburan anda\nFasilitas Populer :\n- Kamar Double Bed\n- WIFI\n- Parkir\n- Resepsionis 24 Jam\n- Kamar Mandi Air Hangat\n- dll</item>
+        <item>Hotel dan Resort yang nyaman untuk liburan keluarga\nFasilitas Populer :\n- Kolam Renang\n- WIFI\n- Parkir\n- AC\n- Kamar Mandi Air Hangat\n- Resepsionis 24 jam</item>
+        <item>Menawarkan Kamar dengan tempat tidur yang besar dan nyaman untuk waktu menginap yang menyenangkan\nFasilitas Populer :\n- AC\n- WIFI\n- Parkir\n- Kamar Mandi Air Hangat</item>
+        <item>Villa yang sejuk dan view yang langsung ke kota kuningan akan memuat liburan anda menjadi menyenangkan\nFasilitas Populer :\n- Penghangat Ruangan\n- WIFI\n- Parkir\n- Resepsionis 24 Jam\n- Kamar Mandi Air Hangat</item>
+        <item>Hotel Dengan Fasilitas Super Lengkap\nFasilitas Populer :\n- Kamar Bebas Asap Rokok\n- WIFI\n- TV LED\n- Resepsionis 24 Jam\n- Air Mineral\n- Parkir</item>
+        <item>HomeStay yang nyaman untuk liburan anda di kota Kuningan\nFasilitas Populer :\n- Kamar Bebas Asap Rokok\n- WIFI\n- TV LED\n- Resepsionis 24 Jam\n- Air Mineral\n- Parkir</item>
+        <item>Terkenal karena pemandangan indahnya tentang keindahan Alam, dikelilingi danau, air terjun, dan berbagai atraksi air yang menyenangkan\nFasilitas Populer :\n- WIFI\n- Parkir\n- Resepsionis 24 Jam</item>
+        <item>Hotel yang nyaman dan dekat dengan obyek wisata Linggarjati Indah\nFasilitas Populer :\n- Restoran\n- Kasur yang Nyaman\n- Kamar Mandi Shower\n- Resepsionis 24 Jam\n- Parkir</item>
+        <item>Menawarkan akomodasi di Kuningan dan berjarak 950 meter dari Museum Linggarjati\nFasilitas Populer :\n- Kamar Mandi Shower\n- Kamar Double Bed\n- Parkir\n- Resepsionis 24 Jam\n- Kamar Mandi Air Hangat</item>
+        <item>Villa yang dekat dengan Wisata kota Kuningan\nFasilitas Populer :\n- Kamar Double Bebas Asap Rokok\n- LED TV\n- AC\n- Resepsionis 24 Jam\n- Parkir</item>
+    </string-array>
+    <integer-array name="gambar_hotel">
+        <item>@drawable/img1</item>
+        <item>@drawable/img2</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img4</item>
+        <item>@drawable/img5</item>
+        <item>@drawable/img6</item>
+        <item>@drawable/img7</item>
+        <item>@drawable/img8</item>
+        <item>@drawable/img9</item>
+        <item>@drawable/img10</item>
+    </integer-array>
+    <integer-array name="harga">
+        <item>500000</item>
+        <item>200000</item>
+        <item>500000</item>
+        <item>50000</item>
+        <item>100000</item>
+        <item>150000</item>
+        <item>500000</item>
+        <item>100000</item>
+        <item>100000</item>
+        <item>50000</item>
+    </integer-array>
+    <string-array name="lokasi_hotel">
+        <item>Cilimus, Kuningan</item>
+        <item>Cilimus, Kuningan</item>
+        <item>Kuningan, Kuningan</item>
+        <item>Cisantana, Kuningan</item>
+        <item>Cilimus, Kuningan</item>
+        <item>Cilimus, Kuningan</item>
+        <item>Cilimus, Kuningan</item>
+        <item>Cilimus, Kuningan</item>
+        <item>Cilimus, Kuningan</item>
+        <item>LebakWangi, Kuningan</item>
+    </string-array>
+    <string-array name="nama_hotel">
+        <item>Sangkan Park Hotel dan Resort</item>
+        <item>Redoorz Sangkanhurip</item>
+        <item>OYO Penginapan Pramuka Kuningan</item>
+        <item>Villa Sehat Cisantana</item>
+        <item>Hotel Linggarjati Natural Park</item>
+        <item>Triyoga Homestay Syariah</item>
+        <item>Hotel Popuci Kuningan</item>
+        <item>Limerr Resto Resort</item>
+        <item>Pondok Abqori</item>
+        <item>Villa Mawar Adinda Kuningan</item>
+    </string-array>
+    <string-array name="range_harga">
+        <item>500.000 – 1.500.000</item>
+        <item>200.000 – 600.000</item>
+        <item>500.000 – 1.500.000</item>
+        <item>50.000 – 150.000</item>
+        <item>100.000 – 300.000</item>
+        <item>150.000 – 450.000</item>
+        <item>500.000 – 1.500.000</item>
+        <item>100.000 – 300.000</item>
+        <item>100.000 – 300.000</item>
+        <item>50.000 – 150.000</item>
+    </string-array>
+    <string-array name="rating_hotel">
+        <item>4.5</item>
+        <item>4.8</item>
+        <item>4.8</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.7</item>
+        <item>4.7</item>
+        <item>4.5</item>
+        <item>4.9</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="reviewer">
+        <item>Dari 1.596 Reviewer</item>
+        <item>Dari 2.800 Reviewer</item>
+        <item>Dari 539 Reviewer</item>
+        <item>Dari 9.001 Reviewer</item>
+        <item>Dari 10.021 Reviewer</item>
+        <item>Dari 87.000 Reviewer</item>
+        <item>Dari 3.900 Reviewer</item>
+        <item>Dari 50.600 Reviewer</item>
+        <item>Dari 38.600 Reviewer</item>
+        <item>Dari 1.500 Reviewer</item>
+        <item>Dari 18.506 Reviewer</item>
+    </string-array>
+    <string-array name="tipe">
+        <item>Regular</item>
+        <item>Business</item>
+        <item>VVIP</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="blue_hotel">#249fda</color>
+    <color name="dark_gray">#565656</color>
+    <color name="gray">#d9d9d9</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="app_name">MyHotel</string>
+    <string name="background">background</string>
+    <string name="booking_kamar">Booking Kamar</string>
+    <string name="create_an_account"><u>Create An Account</u></string>
+    <string name="deksripsi">Deksripsi</string>
+    <string name="email">Email : 20200810002@uniku.ac.id</string>
+    <string name="email_user">Email User</string>
+    <string name="image">image</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="isi_deskripsi">isi Deskripsi\n\n\n\n\n\n\n\n</string>
+    <string name="jumlah_orang">Jumlah Orang</string>
+    <string name="kelas">Kelas : TINFC-2020-04</string>
+    <string name="keterangan">Aplikasi Simulasi Pemesanan Hotel. Ditujuan sebagai project tugas akhir Bahasa Pemrograman 3</string>
+    <string name="location">Location</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="nama">Nama</string>
+    <string name="nama2">Nama : Farhan Fauzan</string>
+    <string name="nama_hotel">Nama Hotel</string>
+    <string name="nama_user">Nama User</string>
+    <string name="nim">NIM : 20200810002</string>
+    <string name="nomor_hp">Nomor Hp</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="tanggal_checkin">Tanggal CheckIn</string>
+    <string name="tanggal_checkout">Tanggal CheckOut</string>
+    <string name="tipe_kamar">Tipe Kamar</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="versi">Aplikasi Booking Hotel\nV 1.0.0</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="welcome2">SELAMAT DATANG\nDI\nHOTELKU</string>
+    <style name="Theme.MyHotel" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/blue_hotel</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

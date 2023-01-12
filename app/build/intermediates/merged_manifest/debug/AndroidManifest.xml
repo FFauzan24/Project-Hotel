@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.acenkzproject.myhotel"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="32" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.MyHotel" >
+        <activity
+            android:name="com.acenkzproject.myhotel.AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.acenkzproject.myhotel.SuccessActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.acenkzproject.myhotel.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.acenkzproject.myhotel.BookingActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.acenkzproject.myhotel.DetailHotelActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.acenkzproject.myhotel.ListHotelActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.acenkzproject.myhotel.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.acenkzproject.myhotel.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.acenkzproject.myhotel.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.acenkzproject.myhotel.MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.acenkzproject.myhotel.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>
